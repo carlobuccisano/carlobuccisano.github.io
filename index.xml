@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Carlo Buccisano</title><link>https://www.carlobuccisano.github.io/</link><description>Recent content on Carlo Buccisano</description><generator>Hugo</generator><language>en</language><atom:link href="https://www.carlobuccisano.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.carlobuccisano.github.io/colophon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.carlobuccisano.github.io/colophon/</guid><description>&lt;h2 id="colophon"&gt;Colophon&lt;/h2&gt;
+&lt;p&gt;This website has been created using &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt;. It is hosted by &lt;a href="https://pages.github.com/"&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;</description></item><item><title/><link>https://www.carlobuccisano.github.io/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.carlobuccisano.github.io/cv/</guid><description>&lt;h1&gt; 
+ Curriculum Vitae
+ &lt;a class="cv_link slow_in_animated" href="https://raw.githubusercontent.com/carlobuccisano/Curriculum-Vitae/main/short_cv.pdf" target="__blank" rel="noopener noreferrer"&gt;
+ &lt;i class="fa-solid fa-file-pdf"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+&lt;/h1&gt;
+&lt;div class="cv_div"&gt;
+ &lt;h3 class="cv_table_title"&gt; 
+ General Information 
+ &lt;/h3&gt;
+ &lt;table class="cv_table"&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt; &lt;b&gt; Full Name &lt;/b&gt; &lt;/td&gt;
+ &lt;td&gt; Carlo Buccisano &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; &lt;b&gt; Date of Birth &lt;/b&gt; &lt;/td&gt;
+ &lt;td&gt; 29th of December 1997 &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt; &lt;b&gt; Languages &lt;/b&gt; &lt;/td&gt;
+ &lt;td&gt; Italian, English and French &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+ &lt;/table&gt;
+&lt;/div&gt;
+&lt;div class="cv_div"&gt;
+ &lt;h3 class="cv_table_title"&gt;
+ Education
+ &lt;/h3&gt;
+ &lt;ul class="cv_list"&gt;
+ &lt;li class="cv_list_item"&gt;
+ &lt;div class="cv_education_row"&gt;
+ &lt;div class="cv_little_left_box"&gt;
+ &lt;span class="cv_years_box"&gt; 2021 - 2025 &lt;/span&gt;
+ &lt;/div&gt;
+ &lt;div class="cv_row_right_part"&gt;
+ &lt;h4 class="cv_entry"&gt; PhD in Mathematics &lt;/h4&gt;
+ &lt;i class="fa-solid fa-building-columns istituto"&gt; &lt;/i&gt; &lt;a href="https://www.imo.universite-paris-saclay.fr/"&gt;Institut Mathématiques d'Orsay&lt;/a&gt;, France
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/li&gt;
+ &lt;li class="cv_list_item"&gt;
+ &lt;div class="cv_education_row"&gt;
+ &lt;div class="cv_little_left_box"&gt;
+ &lt;span class="cv_years_box"&gt; 2016 - 2022 &lt;/span&gt;
+ &lt;/div&gt;
+ &lt;div class="cv_row_right_part"&gt;
+ &lt;h4 class="cv_entry"&gt; Galileian School Diploma &lt;/h4&gt;
+ &lt;i class="fa-solid fa-building-columns istituto"&gt; &lt;/i&gt; &lt;a href="http://unipd-scuolagalileiana.it/"&gt;Galileian School of Higher Studies&lt;/a&gt;, Padova (Italy)
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/li&gt;
+ &lt;li class="cv_list_item"&gt;
+ &lt;div class="cv_education_row"&gt;
+ &lt;div class="cv_little_left_box"&gt;
+ &lt;span class="cv_years_box"&gt; 2019 - 2021 &lt;/span&gt;
+ &lt;/div&gt;
+ &lt;div class="cv_row_right_part"&gt;
+ &lt;h4 class="cv_entry"&gt; Master Degree in Mathematics &lt;/h4&gt;
+ &lt;i class="fa-solid fa-building-columns istituto"&gt; &lt;/i&gt; &lt;a href="http://algant.eu"&gt;ALGANT Double Degree&lt;/a&gt;, Padova (Italy) and Orsay (France)
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/li&gt;
+ &lt;li class="cv_list_item"&gt;
+ &lt;div class="cv_education_row"&gt;
+ &lt;div class="cv_little_left_box"&gt;
+ &lt;span class="cv_years_box"&gt; 2016 - 2019 &lt;/span&gt;
+ &lt;/div&gt;
+ &lt;div class="cv_row_right_part"&gt;
+ &lt;h4 class="cv_entry"&gt; Undergraduate Degree in Mathematics &lt;/h4&gt;
+ &lt;i class="fa-solid fa-building-columns istituto"&gt; &lt;/i&gt; &lt;a href="https://www.math.unipd.it/)"&gt;University of Padua&lt;/a&gt;, Italy
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="cv_div"&gt;
+ &lt;h3 class="cv_table_title"&gt;
+ Work Experience
+ &lt;/h3&gt;
+ &lt;ul class="cv_list"&gt;
+ &lt;li class="cv_list_item"&gt;
+ &lt;div class="cv_education_row"&gt;
+ &lt;div class="cv_little_left_box"&gt;
+ &lt;span class="cv_years_box"&gt; 2024 - 2025 &lt;/span&gt;
+ &lt;/div&gt;
+ &lt;div class="cv_row_right_part"&gt;
+ &lt;h4 class="cv_entry"&gt; Attaché Temporaire de Recherche et d'Enseignement &lt;/h4&gt;
+ &lt;i class="fa-solid fa-building-columns istituto"&gt; &lt;/i&gt; &lt;a href="https://www.imo.universite-paris-saclay.fr/"&gt;Institut Mathématiques d'Orsay&lt;/a&gt;, France
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/li&gt;
+ &lt;li class="cv_list_item"&gt;
+ &lt;div class="cv_education_row"&gt;
+ &lt;div class="cv_little_left_box"&gt;
+ &lt;span class="cv_years_box"&gt; July 2015 &lt;/span&gt;
+ &lt;/div&gt;
+ &lt;div class="cv_row_right_part"&gt;
+ &lt;h4 class="cv_entry"&gt; Computer Programmer (Intern) &lt;/h4&gt;
+ &lt;i class="fa-solid fa-computer istituto"&gt; &lt;/i&gt; &lt;a href="https://www.ibm.com/"&gt;IBM&lt;/a&gt;, United Kingdom
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/div&gt;</description></item><item><title/><link>https://www.carlobuccisano.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.carlobuccisano.github.io/research/</guid><description>&lt;h1 id="preprints"&gt;Preprints&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;On derived D-modules and their several definitions&lt;/strong&gt;: &lt;a href="https://arxiv.org/abs/2510.15665"&gt;arXiv:2510.15665&lt;/a&gt;.
+&lt;button class="abstract_button in_out_fast_animated" id="abstract_button_1" title="Show abstract"&gt;
+Abs
+&lt;/button&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p id="abstract-1" class="in_out_fast_animated abstract hidden"&gt;
+ The so called theory of derived D-modules is an extension of classical D-modules to derived algebraic geometry, which uses the derived information of the base scheme. We prove that the three different definitions of derived D-modules, given by Beraldo, Nuiten and Toën-Vezzosi, on a (nice) derived scheme yield equivalent symmetric monoidal ∞-categories. We deduce this as a corollary of more general statements about Chevalley-Eilenberg cohomology of dg-Lie algebroids, proving a conjecture by E. Pavia, and about the relation between representations of a dg-Lie algebroid and some class of ind-coherent sheaves on the associated formal moduli problem, which can be of independent interest.
+&lt;/p&gt;</description></item><item><title/><link>https://www.carlobuccisano.github.io/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.carlobuccisano.github.io/teaching/</guid><description>&lt;h1 id="teaching-activities"&gt;Teaching Activities&lt;/h1&gt;
+&lt;p&gt;Here is a list of all my teaching activities. The names refer to courses taught at &lt;a href="https://www.universite-paris-saclay.fr/"&gt;Paris-Saclay University&lt;/a&gt;.&lt;br&gt;
+&lt;span class="text-faint small"&gt;
+Basic conventions: &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;L&lt;/mi&gt;&lt;mi&gt;N&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;LN&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="base"&gt;&lt;span class="strut" style="height:0.6833em;"&gt;&lt;/span&gt;&lt;span class="mord mathnormal"&gt;L&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.10903em;"&gt;N&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; refers to the &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;N&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;N&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="base"&gt;&lt;span class="strut" style="height:0.6833em;"&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.10903em;"&gt;N&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-th year of undergraduate, &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;M&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;M&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="base"&gt;&lt;span class="strut" style="height:0.6833em;"&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.10903em;"&gt;M&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; refers to math, &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;P&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="base"&gt;&lt;span class="strut" style="height:0.6833em;"&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.13889em;"&gt;P&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; to physics, &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;I&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="base"&gt;&lt;span class="strut" style="height:0.6833em;"&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.07847em;"&gt;I&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; to computer science and &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;D&lt;/mi&gt;&lt;mi&gt;D&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;DD&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="base"&gt;&lt;span class="strut" style="height:0.6833em;"&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.02778em;"&gt;DD&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; to double degree.
+&lt;/span&gt;&lt;/p&gt;</description></item></channel></rss>
